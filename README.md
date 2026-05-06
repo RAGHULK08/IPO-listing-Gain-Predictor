@@ -70,7 +70,7 @@ This project builds an **end-to-end binary classification pipeline** that predic
 - **Stratified 60/20/20 split** preserving class balance across train, validation, and test sets
 - **Temporal (chronological) split validation** to detect data leakage from shared market eras
 - **Random Forest feature importance** (MDI) to validate and explain feature contributions
-- **Browser-based inference UI** (IPO Oracle) for live predictions before listing day
+- **Browser-based inference UI** (IPO) for live predictions before listing day
 
 ---
 
@@ -154,7 +154,7 @@ ipo-listing-gain-predictor/
 │   └── ipo_latest_updates_separate.csv
 │
 ├── app/
-│   └── ipo_oracle/                  # Browser-based inference UI
+│   └── ipo/                  # Browser-based inference UI
 │
 ├── outputs/
 │   ├── charts/                      # All EDA and results visualisations
@@ -275,7 +275,7 @@ Actual Profitable            12 (FN) ⚠️             51 (TP) ✅
 
 ## 🌐 Web App
 
-**IPO Oracle** — a browser-based inference interface that accepts the 9 model features and returns a live prediction before listing day.
+**IPO** — a browser-based inference interface that accepts the 9 model features and returns a live prediction before listing day.
 
 ### Confidence Tiers
 
