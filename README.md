@@ -146,7 +146,7 @@ Input (9 features)
 ```
 ipo-listing-gain-predictor/
 │
-├── IPO_Return_Enhanced_3.ipynb      # Main notebook — full pipeline
+├── IPO_Return.ipynb      # Main notebook — full pipeline
 │
 ├── data/
 │   ├── ipo_model_dataset_historical_ready.csv
@@ -198,7 +198,7 @@ jupyter>=1.0.0
 ### Run the full pipeline (Jupyter)
 
 ```bash
-jupyter notebook IPO_Return_Enhanced_3.ipynb
+jupyter notebook IPO_Return.ipynb
 ```
 
 ### Quick inference snippet
