@@ -8,7 +8,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![VIT](https://img.shields.io/badge/VIT%20University-2026-1A3A5C?style=flat-square)](https://vit.ac.in)
 
 <br/>
 
@@ -323,7 +322,7 @@ IPO Opens (T-5)  →  Subscription Closes (T-2)  →  Model Inference (T-1)  →
 ## 🧑‍💻 Author
 
 **Raghul K**  
-Integrated M.Tech CSE (Data Science) · VIT University · Reg: 23MID0160  
+Integrated M.Tech CSE (Data Science)
 
 [![GitHub](https://img.shields.io/badge/GitHub-RAGHULK08-181717?style=flat-square&logo=github)](https://github.com/RAGHULK08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raghul--k08-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/raghul-k08)
@@ -335,9 +334,3 @@ Integrated M.Tech CSE (Data Science) · VIT University · Reg: 23MID0160
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-<div align="center">
-
-*Built as part of the Machine Learning for Data Science course project — VIT University, 2026*
-
-</div>
